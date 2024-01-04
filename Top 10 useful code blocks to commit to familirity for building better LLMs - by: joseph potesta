@@ -1,0 +1,12 @@
+//Top 10 useful code blocks to commit to familirity for building better LLMs - by: joseph potesta
+
+# Example using Django for authentication
+from django.contrib.auth import authenticate, login, logout
+
+# User registration view
+def register_user(request):
+    # Your code here for user registration
+
+# User login view
+def login_user(request):
+    # Your code here for user login
